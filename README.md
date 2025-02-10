@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Dr William Ngiam, currently a Lecturer in the School of Psychology at the University of Adelaide. I am a cognitive neuroscientist researching how we represent information in both the mind and brain. My lab is called [the Perception, Attention, Learning and Memory Lab or the PALM Lab](https://github.com/PALM-Lab). 
+
+My Github will primarily contain code for cognitive experiments.
+
 <!--
 **WilliamNgiam/WilliamNgiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
